@@ -1,0 +1,6 @@
+framework module JHCBaseTool {
+  umbrella header "JHCBaseTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
